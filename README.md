@@ -1,1 +1,1 @@
-# ps99
+# Pet Simulator 99 script
